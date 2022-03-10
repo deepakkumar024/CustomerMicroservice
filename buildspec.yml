@@ -9,5 +9,6 @@ phases:
     commands:
       - echo Build completed successfully
 artifacts:
-  
+  files:
+  - target/customer.jar
   discard-paths: yes
